@@ -59,6 +59,26 @@
       "category": "Adapters",
       "rating": 4.1,
       "image": "images/product-6.png"
+    },
+    {
+      "id": "7",
+      "name": "iPhone Air 17",
+      "description": "Ultra-efficient A17 chip, pro-level camera system, and sleek, lightweight design.",
+      "price": 999.99,
+      "quantity": 5,
+      "category": "Phones",
+      "rating": 4.1,
+      "image": "images/product-7.jpg"
+    },
+    {
+      "id": "8",
+      "name": "iPad Pro M5",
+      "description": "Retina XDR display, the lightning-fast M4 chip, all-day battery life.",
+      "price": 999.99,
+      "quantity": 100,
+      "category": "Tablets",
+      "rating": 4.1,
+      "image": "images/product-8.jpeg"
     }
   ]
 }
